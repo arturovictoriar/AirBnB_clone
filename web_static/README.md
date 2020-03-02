@@ -1,6 +1,6 @@
 <h1 align="center">AirBnB clone - Web static</h1>
 
-The topic of this project is about static web pages whit html and css basic concepts. 
+This project is about static web pages wiht html and css basic concepts. 
 
 The file [0-index.html](https://github.com/arvicrin/AirBnB_clone/blob/master/web_static/0-index.html) uses Inline Styling and keep the footer always in the bottom. See in below picture.
 <p align="center">
