@@ -21,4 +21,6 @@
 .places article h2 {
     font-size: 30px;
     text-align: center;
+    margin-top: 0px;
+    margin-bottom: 25px;
 }
